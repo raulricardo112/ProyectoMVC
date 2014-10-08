@@ -1,0 +1,1 @@
+/home/rricardo/Proyectos/pro1/resources/views/Users/create.blade.php

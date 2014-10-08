@@ -1,0 +1,1 @@
+/home/rricardo/Proyectos/pro1/resources/views/Posts/show.blade.php
